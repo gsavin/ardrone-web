@@ -1,0 +1,27 @@
+html, body, .fh, .container {
+  min-height: 100%;
+  height: 100%;
+}
+
+svg .background {
+  fill: #efefef;
+  stroke: #dfdfdf;
+}
+
+svg .joystick1 {
+  fill: #508fcc;
+  stroke: #dfdfdf;
+  opacity: 0.75;
+}
+
+svg .joystick2 {
+  fill: none;
+  stroke: #cc5550;
+  stroke-width: 5px;
+  opacity: 0.75;
+}
+
+svg .ticks {
+  stroke: #cfcfcf;
+  fill: none;
+}
